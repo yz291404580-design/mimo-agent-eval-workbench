@@ -1,6 +1,6 @@
 # mimo-agent-eval-workbench
 A real-world AI Agent coding workflow benchmark for evaluating MiMo-V2.5 in engineering tasks.
-# MiMo Agent 工程任务自动化评测工作台
+#MiMo Agent 工程任务自动化评测工作台
 
 一个面向个人开发者和小团队的 AI Agent 工程任务评测项目，用于把真实代码库中的需求、Bug、Issue 或文档任务转化为可复盘的 Agent 工作流，并记录模型在真实开发任务中的表现。
 
